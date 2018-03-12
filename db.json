@@ -1,14 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "infos": [
+    { "id": 1, "name": "Formation Angular", "description" : "Formation pour apprendre les bases Angular" },
+    { "id": 2, "name": "Formation Angular 2", "description" : "Formation pour apprendre les bases Angular 2" }  
+  ]
 }
